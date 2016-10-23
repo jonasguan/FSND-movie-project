@@ -1,5 +1,5 @@
 # FSND P0: Movie Trailer Website 
-This is a movie trailer website written in python. It contains 3 components:
+This is a movie trailer website written in python. It contains 4 components:
 * media.py: module containing class information for class Movie 
 * entertainment_center.py: module containing information of each movie presented on the website, stored as Movie objects 
 * fresh_tomatoes.py: script provided by Udacity to generate an HTML page to display movie information
