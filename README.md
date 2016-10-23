@@ -6,7 +6,5 @@ This is a movie trailer website written in python. It contains 4 components:
 * runme.py: script to generate an HTML page using fresh_tomatoes.py based on Movie objects in entertainment_center.py
 
 ## Usage
-To generate and view my website, run
-`./runme.py`
-
+To generate and view my website, run `python runme.py` from the project directory.
 An html page, fresh_tomatoes.html, will be created in the current directory and automatically opened by the browser.
